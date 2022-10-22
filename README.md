@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamhbc](https://github.com/iamhbc)
 
-- 📫 I love connecting with people. Reach me at **hikmatbbc@protonmail.com**
+- 📫 I'd love to connect with you. Please reach me at hikmatbbc@protonmail.com.
 <h3 align="left">👩‍💻 Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/iamhbc" target="blank"><img align="center"
