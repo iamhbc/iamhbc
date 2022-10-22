@@ -1,4 +1,4 @@
-@@ -1,17 +1,17 @@
+
 <h1 align="center">Hi 👋, I'm Hikmat.</h1>
 <h3 align="center">I'm a Computer Science undergard student .</h3>
 <p align="center">
@@ -11,8 +11,8 @@
 
 - 🌱 I'm presently pursuing my passions.
 
-- 💫 There're a lop of technology to learn in my bucketlist and on top it's **React.js** as of now.
-- 💫 There're a lot of technology to learn in my bucketlist and on top it's **React.js** as of now.
+- 💫 There're a lop of technology to learn in my bucketlist and on top it's **IoT** as of now.
+- 💫 There're a lot of technology to learn in my bucketlist and on top it's **IoT** as of now.
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamhbc](https://github.com/iamhbc)
 
