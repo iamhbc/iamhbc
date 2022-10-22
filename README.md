@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Hikmat.</h1>
+<h1 align="center">Hi 🙋‍♂️	, I'm Hikmat.</h1>
 <h3 align="center">I'm a Computer Science undergard student .</h3>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=iamhbc" alt="iamhbc" />
