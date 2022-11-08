@@ -72,7 +72,7 @@
 <summary><samp>&#9776;</samp><i>(Click to view my Github Stat)</i> </summary>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=iamhbc&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Sameekshaa Github Stat"/>
-### 🔥&nbsp;My Stats :
+### 🔥&nbsp;My Stats
 <details>
 <summary><samp>&#9776;</samp><i>(Click to view my Github Stat)</i> </summary>
 <p align="center">
